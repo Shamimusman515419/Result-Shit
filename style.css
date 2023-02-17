@@ -1,0 +1,43 @@
+small{
+    font-family: 'Courgette', cursive;
+
+}
+
+table, td, th {
+    border: 1px solid;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px;
+  }
+  table, th{
+    font-weight: 800 !important;
+
+}
+  hr{
+   width:45px;
+  }
+
+  
+  table {
+    width: 100%;
+    
+    border-collapse: collapse;}
+
+
+    .boxsection{
+        border: 1px solid black;
+    }
+    .totalgpa{
+         outline: none !important;
+          border: none !important;
+    }
+    .taching{
+        font-family: 'Sacramento', cursive;
+  text-align: center;
+    }
+    #InputMarksitpage{
+      display: block;
+    }
+    #MakeMarksitPage{
+     display: none;
+    }
